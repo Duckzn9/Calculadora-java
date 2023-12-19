@@ -1,10 +1,8 @@
+//Calculadora by duck
 import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int resultado = 0;
-        int numero = 0;
         int soma, subtrair, multiplicar, dividir;
 
         System.out.println("Bem vindo a Calculadora de Duck");
