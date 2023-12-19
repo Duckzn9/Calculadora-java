@@ -30,6 +30,5 @@ public class Main {
             System.out.println("Numero Ivalido");
             System.out.println("Tente usar um Numero da Tabela");
         }
-        
     }
 }
