@@ -4,7 +4,7 @@ Bem-vindo à Calculadora que criei, uma simples aplicação Java que permite rea
 
 ## Funcionalidades
 
-A Calculadora de Duck oferece as seguintes operações:
+Essa Calculadora oferece as seguintes operações:
 
 1. **Somar:** Adiciona dois números.
 2. **Subtrair:** Subtrai o segundo número do primeiro.
@@ -24,6 +24,6 @@ Sinta-se à vontade para explorar, contribuir ou fornecer sugestões para aprimo
 
 ## Como Executar
 
-Para executar o código, você precisará de um ambiente Java configurado em sua máquina. Basta compilar e executar o arquivo `Main.java` para começar a usar a Calculadora de Duck.
+Para executar o código, você precisará de um ambiente Java configurado em sua máquina. Basta compilar e executar o arquivo `Main.java` para começar a usar a Calculadora.
 
 Divirta-se calculando!
