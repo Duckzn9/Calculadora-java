@@ -1,29 +1,29 @@
-# Calculadora-java
+# Calculator-java
 
-Bem-vindo à Calculadora que criei, uma simples aplicação Java que permite realizar operações básicas de matemática. Este projeto foi desenvolvido como parte do meu aprendizado em programação.
+Welcome to the Calculator I created, a simple Java application that allows you to perform basic math operations. This project was developed as part of my programming learning.
 
-## Funcionalidades
+## Functionalities
 
-Essa Calculadora oferece as seguintes operações:
+This Calculator offers the following operations:
 
-1. **Somar:** Adiciona dois números.
-2. **Subtrair:** Subtrai o segundo número do primeiro.
-3. **Multiplicar:** Multiplica dois números.
-4. **Dividir:** Divide o primeiro número pelo segundo.
+1. **Add:** Adds two numbers.
+2. **Subtract:** Subtracts the second number from the first.
+3. **Multiply:** Multiplies two numbers.
+4. **Divide:** Divide the first number by the second.
 
-## Como Usar
+## How to use
 
-1. Ao iniciar o programa, você será saudado com uma mensagem de boas-vindas.
-2. Digite o primeiro e o segundo número quando solicitado.
-3. Escolha a operação desejada, digitando o número correspondente.
-4. O resultado da operação selecionada será exibido.
+1. When starting the program, you will be greeted with a welcome message.
+2. Enter the first and second number when prompted.
+3. Choose the desired operation by typing the corresponding number.
+4. The result of the selected operation will be displayed.
 
-Caso um número inválido seja inserido ou uma operação não reconhecida seja escolhida, o programa fornecerá uma mensagem informativa.
+If an invalid number is entered or an unrecognized operation is chosen, the program will provide an informational message.
 
-Sinta-se à vontade para explorar, contribuir ou fornecer sugestões para aprimorar esta simples calculadora. Estou continuamente aprendendo e melhorando minhas habilidades em desenvolvimento de sistemas.
+Feel free to explore, contribute or provide suggestions to improve this simple calculator. I am continually learning and improving my systems development skills.
 
-## Como Executar
+## How to Execute
 
-Para executar o código, você precisará de um ambiente Java configurado em sua máquina. Basta compilar e executar o arquivo `Main.java` para começar a usar a Calculadora.
+To run the code, you will need a Java environment configured on your machine. Simply compile and run the `Main.java` file to start using the Calculator.
 
-Divirta-se calculando!
+Have fun calculating!
